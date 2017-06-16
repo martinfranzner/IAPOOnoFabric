@@ -1,0 +1,6 @@
+1 < 2 > leite =[100%]=> < 2 > pao manteiga;
+2 < 3 > cafe =[100%]=> < 3 > pao manteiga;
+3 < 1 > cerveja pao =[100%]=> < 1 > leite manteiga;
+4 < 1 > cerveja manteiga =[100%]=> < 1 > leite pao;
+5 < 5 > manteiga =[80%]=> < 4 > pao;
+6 < 5 > pao =[80%]=> < 4 > manteiga;
